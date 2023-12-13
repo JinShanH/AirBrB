@@ -1,0 +1,49 @@
+{
+  "users": {},
+  "listings": {    "985221611": {
+    "title": "Listing to Book",
+    "owner": "b@b.com",
+    "address": {
+      "addr": "1 Street Ln, Suburb NSW 2002",
+      "state": "NSW",
+      "street": "1 Street Ln",
+      "suburb": "Suburb",
+      "postcode": "2002",
+      "city": "Sydney",
+      "country": "Australia"
+    },
+    "price": "150",
+    "thumbnail": null,
+    "metadata": {
+      "bathrooms": 1,
+      "bedrooms": 2,
+      "beds": [
+        2,
+        1
+      ],
+      "housingType": "Apartment",
+      "amenities": {
+        "WiFi": true,
+        "Kitchen": false,
+        "TV": false,
+        "Refrigerator": true,
+        "Stove": false,
+        "Oven/Microwave": true,
+        "Cutlery/Crockery": false,
+        "Cutlery/Crokery": true
+      },
+      "description": "A new listing has appeared!",
+      "images": []
+    },
+    "reviews": [],
+    "availability": [
+      {
+        "start": "2023-11-20",
+        "end": "2023-11-21"
+      }
+    ],
+    "published": true,
+    "postedOn": null
+  }},
+  "bookings": {}
+}

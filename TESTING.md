@@ -1,0 +1,2 @@
+sad-path is the path if everything goes wrong - incorrect authentication, issues with create listing, etc. This is done to ensure that the errors are correctly popping up and doesn't navigate to a path unexpectedly.
+Some parts of testing which are unable to be simulated are performed manually. We perform tests on imndividual components to ensire that they render correctly, and perform automated ui testing to simulate user activity.
