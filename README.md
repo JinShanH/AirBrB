@@ -1,20 +1,3 @@
-# Assessment 4 - ReactJS: AirBrB
-
-1. Background & Motivation
-2. The Task (Frontend)
-3. The Support (Backend)
-4. Constraints & Assumptions
-5. Teamwork
-6. Marking Criteria
-7. Originality of Work
-8. Submission
-9. Late Submission Policy
-
-## 0. Change Log
-
-31/10/23 - Removed leftovers from previous Assignment (removed "custom.js" and other minor details)
-04/11/23 - Clarified what the dashboard is for 2.2.2.
-
 ## 1. Before you start
 
 ### 1.1. Background & Motivation
@@ -30,37 +13,6 @@ To satisfy modern tastes and expectations you have also decided to ensure that t
 
 **This assignment is the process you building the front-end for that MVP to the standards described.** This assignment is closely modelled off the popular property renting platfrom [Airbnb](https://www.airbnb.com.au/). If you're not familiar with the service, we would recommend spending the time to try it out so that you can get a feel for how this application may function.
 
-### 1.2. Lectures to watch
-
-You will _need_ to watch at least the following lectures before starting (it will help you get started):
- * [Javascript Ecosystem](https://cgi.cse.unsw.edu.au/~cs6080/23T3/content/lectures/javascript-ecosystem)
- * [Node Package Manager](https://cgi.cse.unsw.edu.au/~cs6080/23T3/content/lectures/javascript-npm)
- * [ReactJS Introduction](https://cgi.cse.unsw.edu.au/~cs6080/23T3/content/lectures/react-intro)
- * [ReactJS Global CSS Usage](https://cgi.cse.unsw.edu.au/~cs6080/23T3/content/lectures/react-css-basic)
- * [ReactJS Lifecycle](https://cgi.cse.unsw.edu.au/~cs6080/23T3/content/lectures/react-lifecycle)
- * [ReactJS useState hook](https://cgi.cse.unsw.edu.au/~cs6080/23T3/content/lectures/react-hooks-state)
- * [ReactJS useEffect hook](https://cgi.cse.unsw.edu.au/~cs6080/23T3/content/lectures/react-hooks-effect)
- * [Working with multiple files](https://cgi.cse.unsw.edu.au/~cs6080/23T3/content/lectures/multi-file-import)
- * [Components & Props](https://cgi.cse.unsw.edu.au/~cs6080/23T3/content/lectures/react-components-props)
- * [Linting](https://cgi.cse.unsw.edu.au/~cs6080/23T3/content/lectures/javascript-linting)
-
-You will _need_ to watch at least the following lectures to finish the assessment completely:
- * [Routing & SPAs](https://cgi.cse.unsw.edu.au/~cs6080/23T3/content/lectures/react-routing-spas)
- * [CSS Frameworks](https://cgi.cse.unsw.edu.au/~cs6080/23T3/content/lectures/react-css-frameworks)
- * [useContext hook](https://cgi.cse.unsw.edu.au/~cs6080/23T3/content/lectures/react-hooks-context)
- * [Testing introduction](https://cgi.cse.unsw.edu.au/~cs6080/23T3/content/lectures/testing-intro)
- * [Component testing](https://cgi.cse.unsw.edu.au/~cs6080/23T3/content/lectures/testing-components)
- * [UI Testing](https://cgi.cse.unsw.edu.au/~cs6080/23T3/content/lectures/testing-ui)
-
-## 2. The Task
-
-You are to build a frontend for a provided backend. This frontend shall be build with ReactJS. It shall be a single page application that does not require a refresh for state updates.
-
-Features need to be implemented (described below) in order for your ReactJS app to meet the requirements of the task, and to operate with the backend described in 3.2.
-
-The requirements describe a series of **screens**. Screens can be popups/modals, or entire pages. The use of that language is so that you can choose how you want it to be displayed. A screen is essentially a certain state of your web-based application.
-
-Please note: This assignment, unlike assignment 2, has a lot of functionality available whilst not logged in. Logging in just adds extra functionality. If you're unsure what we mean by this behaviour, you can play around with the Airbnb website for comparison.
 
 ### 2.1. Feature Set 1. Admin Auth (10% for solo, 8% for pairs)
 
