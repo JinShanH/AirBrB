@@ -278,29 +278,3 @@ Once the backend has started, you can view the API documentation by navigating t
 
 The port that the backend runs on (and that the frontend can use) is specified in `frontend/src/config.js`. You can change the port in this file. This file exists so that your frontend knows what port to use when talking to the backend.
 
-
-## 4. Constraints & Assumptions
-
-### 4.1. Languages
-
- * You must implement this assignment in ReactJS. You cannot use other declarative frameworks, such as AngularJS, or VueJS.
- * You must use ReactJS solutions wherever possible, and avoid doing any direct DOM manipulation unless completely unavoidable (check with course staff).
- * You can use any CSS libraries that you would like, such as bootstrap or material-ui.
- * You are able to use and install any library that is available to install via `npm install`.
-
-### 4.2. Browser Compatibility
- * You should ensure that your programs have been tested on one of the following two browsers:
-   * Locally, Google Chrome (various operating systems) - make sure is latest version.
-   * On CSE machines.
-
-### 4.3. Using code found online
- * You may use small amounts (&lt; 10 lines) of general purpose code (not specific to the assignment) obtained from a site such as Stack Overflow or other publically available resources. You should attribute clearly the source of this code in a comment with it. You can not otherwise use code written by another person.
-
-### 4.4. Other Requriements
- * The specification is intentionally vague to allow you to build frontend components however you think are visually appropriate. Their size, positioning, colour, layout, is in virtually all cases completely up to you. We require some basic criteria, but it's mainly dictating elements and behaviour.
- * Besides those described to avoid, you may use any other packages available on npm.
- * The use of universal CSS is banned - you must use either CSS libraries (e.g. material-ui) or styled components.
-
-## 9. Late Submission Policy
-
-No late submission are accepted.
