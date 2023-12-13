@@ -1,5 +1,3 @@
-## 1. Before you start
-
 ### 1.1. Background & Motivation
 
 In October 2023, following the immense financial success of your messaging platform Slackr, you were invited to several tech talks and travelled all over the 
